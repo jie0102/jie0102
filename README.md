@@ -40,7 +40,7 @@
 
 ## 🔎 Github Statistics
 [![jie0102 stats](https://github-readme-stats.vercel.app/api?username=jie0102&theme=dark&show_icons=true)](https://github.com/jie0102)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jie0102&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jie0102&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Contribution Timeline
 
