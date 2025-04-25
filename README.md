@@ -1,4 +1,19 @@
-# Hi there 👋 ![](https://komarev.com/ghpvc/?username=jie0102&color=blue&style=flat-square)
+<div align="center">
+
+<h1>🌟 Hello, I'm <strong>Yujie Zhang</strong></h1>
+
+---
+
+### AGI Researcher & AI Developer
+
+<br>
+
+<span>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20General%20Intelligence-9b59b6?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-AI%20Product%20Developer-1abc9c?style=for-the-badge"/>
+</span>
+
+</div>
 
 ## 🎯 About Me
 
