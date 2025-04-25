@@ -5,6 +5,7 @@
 ---
 
 ### AGI Researcher & AI Developer
+![](https://komarev.com/ghpvc/?username=jie0102&color=blue&style=flat-square)
 
 <br>
 
