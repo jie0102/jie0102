@@ -1,10 +1,13 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=jie0102&color=blue&style=flat-square)
 
-[![foru17 stats](https://github-readme-stats.vercel.app/api?username=jie0102&theme=dark&show_icons=true)](https://github.com/jie0102)
 ## About Me
-📚 Undergraduate Student
 
-## My Skill Set
+- 👋 Hi, I’m Yujie Zhang
+- 🏫 Student of Xi'an Jiaotong-Liverpool University
+- 📚 I’m currently learning about AI Algorithm
+- 👍 I’m looking to collaborate on programs
+
+## My skill set
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
@@ -14,6 +17,14 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
+## Connect with me
+
+- 📧 Email 1: [609568171@qq.com](mailto:609568171@qq.com)
+- 📧 Email 2: [yujie.zhang21@student.xjtlu.edu.cn](mailto:yujie.zhang21@student.xjtlu.edu.cn)
+- 💬 QQ: [609568171](http://wpa.qq.com/msgrd?v=3&uin=609568171&site=qq&menu=yes)
+
+
+[![foru17 stats](https://github-readme-stats.vercel.app/api?username=jie0102&theme=dark&show_icons=true)](https://github.com/jie0102)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jie0102/jie0102/output/github-contribution-grid-snake-dark.svg">
