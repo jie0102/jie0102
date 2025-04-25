@@ -1,7 +1,7 @@
 # Hi there 👋 ![](https://komarev.com/ghpvc/?username=jie0102&color=blue&style=flat-square)
 
 [![foru17 stats](https://github-readme-stats.vercel.app/api?username=jie0102&theme=dark&show_icons=true)](https://github.com/jie0102)
-
+## About Me
 📚 Undergraduate Student
 
 ## My Skill Set
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-
 
 
 <picture>
