@@ -20,7 +20,6 @@
 
 - 👋 Hi, I’m Yujie Zhang
 - 🏫 Student of Xi'an Jiaotong-Liverpool University
-- 📚 I’m currently learning about AI Algorithm
 - 👍 I’m looking to collaborate on programs
 
 ## 💻 Tech Stack
@@ -35,8 +34,7 @@
 
 ## 🌐 Connect with me
 
-- 📧 Email 1: [609568171@qq.com](mailto:609568171@qq.com)
-- 📧 Email 2: [yujie.zhang21@student.xjtlu.edu.cn](mailto:yujie.zhang21@student.xjtlu.edu.cn)
+- 📧 Email: [609568171@qq.com](mailto:609568171@qq.com)
 - 💬 QQ: [609568171](http://wpa.qq.com/msgrd?v=3&uin=609568171&site=qq&menu=yes)
 
 ## 🔎 Github Statistics
